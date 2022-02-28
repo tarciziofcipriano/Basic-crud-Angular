@@ -2,13 +2,13 @@
 Um simples projeto mostrando um CRUD de produtos feito em Angular.
 
 
-## Instale as dependências via terminal:
+## Instale as dependências via terminal (em cada pasta, front e backend):
 npm install
 
 
 ## Iniciando o projeto
 - Abra 2 terminais, um para o Backend e outro para o Frontend;
-- Em cada terminal acesse as pastas Frontend e Backend pelo o comando cd
+- Em cada terminal acesse as pastas front e backend pelo o comando cd
 - Em cada terminal inicie o projeto pelo o comando npm start
 
 
